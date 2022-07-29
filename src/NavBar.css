@@ -1,0 +1,26 @@
+.navbar_div {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color:beige;
+}
+
+.navbar_list {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.navbar_list li a {
+    padding: 10px;
+    text-decoration: none;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+}
